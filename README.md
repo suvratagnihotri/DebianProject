@@ -1,2 +1,2 @@
 # DebianProject
-Project to create debian package for linux of a maven project
+Project to create debian package for linux, using maven plugin.
