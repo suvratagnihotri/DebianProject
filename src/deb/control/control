@@ -1,0 +1,10 @@
+Package: DebianProject
+Version: 1.0.0
+Section: misc
+Priority: optional
+Architecture: all
+Depends: jdk (>= 1.8)
+Maintainer: Suvrat Agnihotri <suvrat.agnihotri@gingerwebs.co.in>
+Description: Java jar file application
+Distribution: stable
+Depends: default-jre
